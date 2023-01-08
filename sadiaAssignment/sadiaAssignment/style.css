@@ -9,7 +9,7 @@
     margin: 0 auto;
 }
 .banner_container{
-    background-image: url('./imgaes/banner.png');
+    background-image: url('imgaes/banner.png');
     height: 100vh;
     background-repeat: no-repeat;
     background-size: cover;
@@ -160,7 +160,7 @@ font-family: 'Work Sans';
     height: 300px;
     margin: 20px auto;
     border-radius: 10px;
-    background:linear-gradient(to right, rgba(67, 44,180, .6), rgba(11, 49, 99, 0.144)),url('./imgaes/rec1.png');
+    background:linear-gradient(to right, rgba(67, 44,180, .6), rgba(11, 49, 99, 0.144)),url('imgaes/rec1.png');
     background-repeat: no-repeat;
   
 }
