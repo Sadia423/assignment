@@ -1,6 +1,8 @@
 *{
     margin: 0px;
     padding: 0px;
+
+    font-family: 'Work Sans', sans-serif;
 }
 .common_width{
     width: 80%;
@@ -158,7 +160,7 @@ font-family: 'Work Sans';
     height: 300px;
     margin: 20px auto;
     border-radius: 10px;
-    background:linear-gradient(to right, rgba(67, 44,180, .6), rgba(60, 150, 250, .3)),url('imgaes/rec1.png');
+    background:linear-gradient(to right, rgba(67, 44,180, .6), rgba(11, 49, 99, 0.144)),url('imgaes/rec1.png');
     background-repeat: no-repeat;
   
 }
